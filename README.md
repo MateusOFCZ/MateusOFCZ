@@ -18,6 +18,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
   <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=67D37E">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=67D37E">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-323330?&style=for-the-badge&logo=lua&logoColor=67D37E">
 </div>
   
   ##
