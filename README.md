@@ -17,6 +17,7 @@
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=67D37E">
   <img alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
   <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=67D37E">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=67D37E">
 </div>
   
   ##
