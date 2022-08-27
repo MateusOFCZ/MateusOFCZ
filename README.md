@@ -13,7 +13,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=67D37E">
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=67D37E">
   <img alt="ReactJS" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
-  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=67D37E">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-323330?&style=for-the-badge&logo=lua&logoColor=67D37E">
