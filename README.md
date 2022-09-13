@@ -30,3 +30,5 @@
   <a href="https://www.linkedin.com/in/mateusofcz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=67D37E" target="_blank"></a>
   <a href="mailto:mateusdacruz357@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/EMail-323330?style=for-the-badge&logo=gmail&logoColor=67D37E" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/MateusOFCZ/MateusOFCZ/blob/output/github-contribution-grid-snake.svg)
