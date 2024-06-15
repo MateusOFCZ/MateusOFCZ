@@ -15,6 +15,8 @@
   <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=67D37E">
   <img alt="Vue" src="https://img.shields.io/badge/VueJS-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-323330?style=for-the-badge&logo=postgresql&logoColor=67D37E">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-323330?style=for-the-badge&logo=mariadb&logoColor=67D37E">
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=csharp&logoColor=67D37E">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-323330?&style=for-the-badge&logo=lua&logoColor=67D37E">
   <img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=67D37E">
@@ -26,6 +28,7 @@
   <img alt="JQuery" src="https://img.shields.io/badge/JQuery-323330?style=for-the-badge&logo=jquery&logoColor=67D37E">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=67D37E">
   <img alt="SocketIO" src="https://img.shields.io/badge/SocketIO-323330?style=for-the-badge&logo=socket.io&logoColor=67D37E">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=67D37E">
 </div>
   
   ##
