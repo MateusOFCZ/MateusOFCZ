@@ -21,7 +21,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=67D37E">
   <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=67D37E">
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=67D37E">
-  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express.js&logoColor=67D37E">
+  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express&logoColor=67D37E">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=67D37E">
   <img alt="JQuery" src="https://img.shields.io/badge/JQuery-323330?style=for-the-badge&logo=jquery&logoColor=67D37E">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=67D37E">
