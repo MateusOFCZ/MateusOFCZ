@@ -12,16 +12,20 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=67D37E">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=67D37E">
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=67D37E">
-  <img alt="ReactJS" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=67D37E">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
+  <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=67D37E">
+  <img alt="Vue" src="https://img.shields.io/badge/VueJS-323330?style=for-the-badge&logo=vue.js&logoColor=67D37E">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=67D37E">
-  <img alt="CSharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=67D37E">
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=csharp&logoColor=67D37E">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-323330?&style=for-the-badge&logo=lua&logoColor=67D37E">
   <img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=67D37E">
-  <img alt="C++" src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=c++&logoColor=67D37E">
-  <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=67D37E">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sql&logoColor=67D37E">
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodejs&logoColor=67D37E">
+  <img alt="C++" src="https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=67D37E">
+  <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=67D37E">
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=67D37E">
+  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express.js&logoColor=67D37E">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=67D37E">
+  <img alt="JQuery" src="https://img.shields.io/badge/JQuery-323330?style=for-the-badge&logo=jquery&logoColor=67D37E">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=67D37E">
+  <img alt="SocketIO" src="https://img.shields.io/badge/SocketIO-323330?style=for-the-badge&logo=socket.io&logoColor=67D37E">
 </div>
   
   ##
