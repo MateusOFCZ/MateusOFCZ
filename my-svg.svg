@@ -1,9 +1,0 @@
-<!-- METADATA: {"widgets":[{"id":1763767881151,"type":"statsCard","x":0,"y":0,"config":{"title":"Repositórios","value":"100","valueType":"github-repos","width":180,"height":80,"titleSize":14,"valueSize":32,"icon":"mdi-chart-line","backgroundColor":"#2196F3","textColor":"#ffffff","borderRadius":8,"githubData":{"stars":1,"forks":0,"issues":0,"prs":4,"followers":3,"repos":4}}}],"config":{"width":150,"height":80,"backgroundColor":"#2196f3"}} -->
-<svg width="150" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <rect width="150" height="80" fill="#2196f3"/>
-  <g transform="translate(0, 0)">
-    <rect width="180" height="80" fill="#2196F3" rx="8"/>
-    <text x="15" y="30" font-size="14" fill="#ffffff" font-weight="normal">Repositórios</text>
-    <text x="15" y="60" font-size="32" fill="#ffffff" font-weight="bold">100</text>
-  </g>
-</svg>
