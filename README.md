@@ -1,7 +1,7 @@
 ## 
  <div align="center">
   <a href="https://github.com/MateusOFCZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusOFCZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=MateusOFCZ&theme=dark&border_radius=5&locale=pt&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=45%2CFB8C0000%2C67D37E80&fire=67D37E&ring=67D37E&currStreakLabel=67D37E&border=67D37E80&dates=67D37E60&sideLabels=67D37E&sideNums=67D37E&currStreakNum=67D37E" alt="MateusOFCZ" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOFCZ&theme=dark"/>-->
 </div>
 
