@@ -18,9 +18,7 @@
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-323330?style=for-the-badge&logo=postgresql&logoColor=67D37E">
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-323330?style=for-the-badge&logo=mariadb&logoColor=67D37E">
   <img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=67D37E">
-  <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=67D37E">
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=67D37E">
-  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express&logoColor=67D37E">
   <img alt="JQuery" src="https://img.shields.io/badge/JQuery-323330?style=for-the-badge&logo=jquery&logoColor=67D37E">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-323330?style=for-the-badge&logo=npm&logoColor=67D37E">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=67D37E">
